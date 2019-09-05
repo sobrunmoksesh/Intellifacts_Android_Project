@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="localback">#F9D9B1</color>
+    <color name="segabt">#A75D00</color>
+    <color name="fact">#000000</color>
+    <color name="qui">#DDCDDA</color>
+    <color name="quizbtn">#ffffff</color>
+    <color name="quizwords">#000000</color>
+    <color name="Transparentwhite">#cccccc</color>
+    <color name="backpad">#B6B6B6</color>
+    <color name="ltgray">#CCCCCC</color>
+</resources>

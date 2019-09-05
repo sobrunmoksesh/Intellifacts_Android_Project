@@ -1,0 +1,370 @@
+<resources>
+    <string name="app_name">IntelliFacts</string>
+    <string name="textview">TextView</string>
+    <string name="you">You</string>
+    <string name="did">Did</string>
+    <string name="know">Know ?</string>
+    <string name="discover">Discover!</string>
+    <string name="about_mauritius">About Mauritius</string>
+    <string name="local_art">Local art</string>
+    <string name="Local_art">Local Art</string>
+    <string name="About_Mauritius">About Mauritius</string>
+    <string name="cuisine">Cuisine</string>
+    <string name="topic_3">Topic 3</string>
+    <string name="quiz_time">Quiz Time!</string>
+    <string name="topic4">topic4</string>
+    <string name="intellifacts_by_moksesh_and_tridev">©INTELLIFACTS - BY MOKSESH AND TRIDEV</string>
+    <string name="sega">SEGA</string>
+    <string name="handcraft">HANDCRAFT</string>
+    <string name="gato_pima">GATO PIMA</string>
+    <string name="dhol_puri">DHOL PURI</string>
+    <string name="figure_gato_pima">figure: gato pima</string>
+    <string name="did_n_you_n_know_n">Did  \n You \n Know  \n ?</string>
+    <string name="mauritian_history">Mauritius History</string>
+    <string name="figure1">figure1</string>
+
+    <string name="introhistory">In the Indian Ocean over a thousand miles from the southeastern coast of Africa
+        is the gorgeous island of Mauritius. Mauritius is a single ‘volcanic’ island where there are wonderful sandy beaches,
+        coral reefs, forested mountains and beautiful national parks and gardens.
+        This small developing country has a history which many people may not know about.</string>
+
+    <string name="invite">Here are some facts about Mauritius you may have not heard of. </string>
+    <string name="fact_1"># Fact 1: </string>
+
+    <string name="fact1detail">Mauritius was uninhabited by humans until the Arabs landed there in the Middle Ages.
+        They called the island Dine Arobi. The Portuguese came next, a seaman named Domingo Fernandez Pereira
+        sighted Mauritius and named it Ilha do Cerne(Island of the Swan) but neither stayed.</string>
+
+    <string name="portugeuse_ship">Portugeuse ship</string>
+    <string name="poshipn">Portuguese explorer Vasco da Gama\'s Ship (Year 1507)</string>
+    <string name="fact_2"># Fact 2:</string>
+    <string name="van_nassau">Van nassau</string>
+    <string name="prince_maurice_van_nassau">Prince Maurice van Nassau</string>
+
+    <string name="fact2detail">The Dutch Republic established a colony in 1638, naming it after Prince Maurice van Nassau.
+        Other governors:
+        \n
+        1. Cornelis Gooyer 	(1638-1639)
+\n 2. Adriaen van der Stel (1639-1645)
+\n 3. Jacob van der Meersch 	(1645-1648)
+\n 4. Reiner Por 	(1648-1653)
+\n 5. Maximiliaan de Jongh 	(1653-1656)
+\n 6. Abraham Evertsz 	(1656-1658)
+\n 7. Jacobus van Nieuwlant 	(1664-1665)
+\n 8. George Wreede 	(1665-1673)
+\n 9. Hubert Hugo 	(1673-1677)
+    </string>
+
+    <string name="fact_3"># Fact 3:</string>
+    <string name="flag">flag</string>
+
+    <string name="fact3detail">In September 1715, Guillaume Dufresne d\'Arsel took possession of Mauritius in the name of King Louis XV of France.
+        He named it the Isle de France, placed the French flag near what is now Port Louis,
+        drew a document witnessed by his officers declaring the island French and sailed away after three days.
+    Due to its strategic position the island was known as the “star and key” of the Indian Ocean.</string>
+
+    <string name="stateflag">State flag raised in the presence of the king of France in Isle de France</string>
+    <string name="fact_4"># Fact 4:</string>
+
+    <string name="fact4detail">Isle de France( Mauritius) was fought over by the French and British during the Napoleonic years. With England and France at war, Labourdonnais led an expedition of nine ships from the Ile de France to India.
+        \n\n He was accused of accepting a bribe to preserve Madras and was replaced as Governor of Ile de France. He was
+    jailed to the bastille in 1748-1751. </string>
+
+    <string name="mahe_de_labourdonnais">mahe de labourdonnais</string>
+    <string name="mahe_de_labourdonnais_governor_of_mauritius_1734_1746">Mahe de labourdonnais(Governor of Isle de France 1734-1746)</string>
+    <string name="war">war</string>
+    <string name="warinfo">Battle of Grand-Port (1810)</string>
+    <string name="fact5detail">During the Napoleonic Wars, the British invaded Mauritius in 1810. Under British rule Mauritius became the Empire’s main sugar-producing colony. When slavery was abolished by Parliament in 1835, the planters received compensation for their African slaves. The British Occupation of the island lasted till 1968 when they granted the country independence.</string>
+    <string name="fact_5"># Fact 5:</string>
+    <string name="fact_6"># Fact 6:</string>
+    <string name="labour">labour</string>
+    <string name="fact6i">Indentured laborers from India to work the sugar cane fields.</string>
+
+    <string name="fact6detail">In 1872 two lawyers were sent from England to form a Royal Commission.
+        They recommended measures that positively affected the lives of those Indo-Mauritian laborers over the next 50 years.</string>
+    <string name="fact_7"># Fact 7:</string>
+    <string name="father_of_the_nation_sir_seewoosagur_ramgoolam">Father of the nation Sir Seewoosagur Ramgoolam</string>
+    <string name="fact7detail">Universal adult suffrage was instituted in March 1959. The country became an independent state in March 1968 and a member of the Commonwealth of Nations in 1992.</string>
+    <string name="fact_8"># Fact 8:</string>
+    <string name="mauritian_flag">Mauritian flag</string>
+    <string name="mauritian_flag1">Mauritian Flag</string>
+
+    <string name="fact8detail">The flag was designed by Gurudutt Moher who was a primary school teacher at that time.
+        He died of a heart attack on October, 7, 2017 at the age of 93.</string>
+
+    <string name="fact_9"># Fact 9:</string>
+    <string name="fact9intro">The 4 colors of the Mauritian flag</string>
+
+    <string name="fact9detail">red - represents self-determination and independence,\n
+        \nblue - the Indian Ocean surrounding the island,\n
+        \nyellow - has been interpreted as the new light of independence, golden sunshine, or the bright future,\n
+        \n green - can symbolize either agriculture or the lush vegetation of the island</string>
+
+    <string name="mauritius_history">Mauritius History</string>
+
+    <string name="history2">Street food is fantastic in Mauritius.You can get everything from fresh coconut water,
+        chopped fruit covered in chilli and sugar, hot curries topped with chilli and pickles wrapped in buttery breads,
+        and Chinese fried noodles. Mauritius also has fabulous restaurants from local eateries with
+        authentic food to gourmet places that serve Mauritian fusion food.</string>
+
+    <string name="invitecuisine">Here are some typical Mauritian foods you must try if you are in Mauritius</string>
+    <string name="mauritian_cuisines">Mauritian Cuisines</string>
+    <string name="figure2">figure2</string>
+    <string name="dholl_pori">Dholl pori</string>
+    <string name="dhall_puri">Dhall puri</string>
+    <string name="fact1detailt2">If Mauritius had a national dish, this would probably be it. Dholl puris are thought to be derived from Indian flatbread, paratha. Indian immigrants to Mauritius couldn’t get the ingredients to make the bread on the island, and their substitute, a fried thin bread stuffed with ground yellow split peas, and served in a pair with bean curry, atchar and chutney.</string>
+    <string name="seafood">seafood</string>
+    <string name="lobster_gram_seafood_baked">Lobster Gram seafood baked</string>
+
+    <string name="fact2detailt2">However you want it: baked, grilled, fried, sauteed.
+        Mauritius has incredible seafood culture from local fish capitaine to calamari and lobsters.
+        Mauritian cuisine pretty much revolves around seafood whether it’s curries, stews, Chinese dishes or Indian,
+        it’s seafood-heavy. Mauritius is like a pescatarian heaven.</string>
+
+    <string name="alouda1">Alouda</string>
+    <string name="alouda">Alouda</string>
+
+    <string name="fact3detailt2">Similar to the Cape Malay drink falooda,
+        which you find in Cape Town’s Bo-Kaap, alouda is a pink sweet milky beverage with tapioca balls,
+        flavoured with a syrup. According to locals, the best place to find alouda is in the Port Louis food market,
+        where many people often have it as a refreshing drink.</string>
+    <string name="minefrite">minefrite</string>
+    <string name="mine_frite">Mine Frite</string>
+
+    <string name="fact4detailt2">Another popular street food dish is mine frites (fried noodles). This is a simple, yet tasty, dish of soy-sauce-fried noodles topped with spring onions and chilli.
+        As it’s a Chinese-influenced dish, the best place to eat mine frites is, unsurprisingly in Chinatown, at a street stall.
+        It sounds weird, it looks weird, but it tastes good.
+        </string>
+
+    <string name="phoenix">phoenix</string>
+    <string name="pheonix_beer">Pheonix Beer</string>
+
+    <string name="fact5detailt2">Mauritius’ local beer, Phoenix, is an award-winning, crisp, refreshing lager that goes well with pretty much anything you’ll eat on the island, and is great by itself, drunk at sunset on the beach.</string>
+    <string name="green_creamy_coconuts">Green Creamy Coconuts</string>
+
+    <string name="fact6detailt2">Don’t leave Mauritius without drinking from a coconut.
+        It may sound tropical-island-cheesy but it’s so tasty and it is not something you find at home much.
+        Coconut water is deliciously refreshing. Like the pineapples, the best place to find coconuts is on the beach.</string>
+
+    <string name="vindaye_poisson">Vindaye Poisson</string>
+
+    <string name="fact7detailt2">This Mauritian dish is supposedly adapted from the Indian vindaloo, although there’s debate
+        about this. It’s cooked with mustard, garlic, ginger, turmeric, onion and usually fish,
+        although it can be made with vegetables instead. It’s served with rice, lentils, pickles and chutneys.</string>
+
+    <string name="boischeri">boischeri</string>
+
+    <string name="bois_cheri_tea_plantations">Bois cheri Tea plantations</string>
+
+    <string name="fact8detailt2">Bois Cheri tea estate, in the south of the island, grows black tea,
+        which they then mix with Ceylon tea imported from Sri Lanka, and vanilla flavouring imported
+        from South Africa to produce a delicious black vanilla tea. You’ll find it all over the island but
+        the best place to drink it is at the Bois Cheri cafe after a tour of the tea factory and a tea tasting.</string>
+
+    <string name="patate_douce">Patate douce</string>
+
+    <string name="gateau_de_patate_douce_sweet_potato_cakes">Gateau de Patate Douce</string>
+
+    <string name="fact9detailt2">These sweet potato cakes are a tasty Mauritian teatime treat.
+        Sweet potato dough encases a filling of coconut, cardamom and sugar which is then deep fried.</string>
+
+    <string name="fact_10"># Fact 10:</string>
+
+    <string name="palmheart_pic">Palmheart pic</string>
+
+    <string name="palm_heart_salad">Palm heart salad</string>
+
+    <string name="fact10detailt2">Also known as ‘Millionaire’s Salad’, this is a Mauritian delicacy.
+        Palm trees grow for about seven years and then are cut down to extract the ‘heart’ from an arm-sized inner tube of the tree,
+        which feeds around three people as a starter. This is then sliced finely and eaten raw in a
+        salad with smoked marlin and other goodies, or cooked in a sauce.</string>
+
+    <string name="national_bird">national bird</string>
+
+    <string name="the_dodo">The dodo</string>
+
+    <string name="fact10detail">Within a hundred years of the arrival of man the once plentiful Dodo became a rare bird.
+        The last one was killed in 1681. Today it is the national bird of the country, even though it is extinct.</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">todo1</string>
+    <string name="ans1">ans1</string>
+    <string name="ans2">ans2</string>
+    <string name="ans3">ans3</string>
+    <string name="quit">Quit</string>
+    <string name="questionfield">questionField</string>
+
+    <string name="must_visit_places">Must Visit Places</string>
+    <string name="figure3">figure3</string>
+
+    <string name="introt3">At the thought of Mauritius, the only pictures that conjure up are those of its sandy beaches,
+        palm trees and azure lagoons. Pictures are never enough to describe the beautiful and incomparable
+        landscapes of this picturesque tiny piece of paradise.Being a popular honeymoon destination and luxury spot
+        for celebrities, it is now a high class destination proposing top-notch services in its numerous luxurious hotels,
+        high class villas and bungalows.</string>
+
+    <string name="historyt3">Here are some places you must visit if you are in Mauritius</string>
+    <string name="le_morne">Le Morne</string>
+    <string name="le_morne_brabant">Le Morne Brabant</string>
+
+    <string name="fact1detailt3">Le Morne Brabant, found in the South of the island, is a scarcely inhabited place.
+        It is mostly surrounded by hotels. There you will have the chance of seeing Le Morne Mountain,
+        classified as World heritage, a single peak encapsulating so much of Mauritius’ history in it.
+        The mountain was the place, for slaves, to escape from their masters. The place is full of nice viewpoints
+        over the west coast of the island and over the southern part of the island.</string>
+
+    <string name="black_river_gorge">black river gorge</string>
+    <string name="black_river_gorges_national_park">Black River Gorges National Park</string>
+
+    <string name="fact2detailt3">This dense forest is home to over 300 species of flowering plants.
+        Want to spot one of the rarest birds in the world? Then the national park is your best bet since
+        it is the habitat of the Pink pigeon, a bird endemic to Mauritius, which nearly reached extinction.For visitors loving
+        immense outdoors, black river gorges is an ideal place to let yourself be carried away by its set of panoramic
+        views of the island’s landscape, including vistas, gorges, peaks and waterfalls.</string>
+
+    <string name="chamarel">Chamarel</string>
+
+    <string name="fact3detailt3">Chamarel is a small village located in the district of Savanne.
+        The highest waterfall in Mauritius at 100 metres and the 7-coloured earths. Climbing the stairs to the
+        viewing platform reveals an awe impressive view as it hits the pool 100 metres below. The ‘Seven Coloured Earth’,
+        made up of sand dunes of different distinct colours including reds, browns and purples will impress more than one.
+        This phenomenon is due to volcanic rocks which resulted in dunes of
+        different colours.</string>
+    <string name="chamarelfigure">chamarelfigure</string>
+    <string name="insectarium">Insectarium</string>
+    <string name="insectarium_crocodile_park">Insectarium-Crocodile Park</string>
+
+    <string name="fact4detailt3">The star of the show here is without any doubt the crocodile,
+        but you will also see other creatures including giant bats, giant turtles, monkeys and a huge insect collection.
+        While having a walk through the jungle observing the flora and fauna, you will learn more about the endangered
+        species endemic to Mauritius. Its insectarium is one of the world’s largest private collections of butterfly
+        and other insects. The restaurant of the park even
+        proposes Crocodile Curry on its menu.</string>
+
+    <string name="pamplemouses_garden">Pamplemouses garden</string>
+    <string name="pamplemousses_botanical_garden">Pamplemousses Botanical Garden</string>
+
+    <string name="fact5detailt3">Also known as Sir Seewoosagur Ramgoolam Botanical Garden, the plot covers 60 acres
+        of land and features a number of varieties of palm trees. One unique feature of the garden is its giant lily
+        ponds with tadpoles and frogs, fruit bat trees with bats hanging from the branches, lakes with giant turtles
+        and fishes without forgetting the trees planted by famous figures including Nelson Mandela and Indira Ghandi.</string>
+
+    <string name="labourdonais">Labourdonais</string>
+
+    <string name="ch_teau_de_labourdonnais">Château de Labourdonnais</string>
+
+    <string name="fact6detailt3">At the heart of a splendid natural estate, the Château de Labourdonnais helps you to
+        rediscover the nineteenth century Mauritian lifestyle… Brilliantly restored, this majestic mansion,
+        built in 1859, has regained all of its original splendour and provides a unique experience to its visitors.
+        After visiting the château you can have a promenade in its garden, then visit its distillery and in the
+        end taste the Rhum locally produced at the Rhumerie des Mascareignes.</string>
+
+    <string name="ile_aux_cerfs">Ile Aux Cerfs</string>
+
+    <string name="fact7detailt3">A large outer isle of Mauritius, Iles Aux Cerfs is located off its East Coast,
+        with spectacular white sandy beaches, palm trees and waters of all shades of blue.
+        There, the picture-postcard blue lagoon will make you feel dreamy. Iles aux Cerfs is the perfect place
+        to relax, enjoy a BBQ and have a go at parasailing to have a majestic aerial view of this pristine isle.
+        It also houses the Bernard Langer golf course.</string>
+
+    <string name="gris_gris">Gris gris</string>
+
+    <string name="gris_gris_beach_la_roche_qui_pleure">Gris Gris Beach- La Roche Qui Pleure</string>
+
+    <string name="fact8detailt3">This place is simply amazing, superb, relaxing and inspiring.
+        Unique big waves crashing against the volcanic cliffs. The rocks being porous will make you hear,
+        at each backslash, the rocks breathing. An amazing and sole experience everyone should see and enjoy.</string>
+    <string name="grand_bassin_sacred_lake">Grand Bassin Sacred Lake</string>
+
+    <string name="fact9detailt3">Grand Bassin, an extinct volcano, now a lake high up in the mountains about
+        1800 feet above sea level is the most sacred Hindu place on the island of Mauritius. The people of the island believe it is filled with holy waters from the
+        River Ganges in India on the occasion of Maha Shivaratree people make pilgrimages from their homes
+        to the lake on foot, carrying religious carts(Kawals). There is also a majestic 108 foot
+        statue of Lord Shiva which brings a touch of uniqueness to that specific location.</string>
+
+    <string name="champ_de_mars">Champ de Mars</string>
+    <string name="champ_de_mars_racecourse">Champ De Mars RaceCourse</string>
+
+    <string name="fact10detailt3">Fan of horse races? Then this is surely a must-see place.
+        Put on your best outfit and spend your Saturday at the Champ de Mars race course.
+        The race course is the oldest in the southern hemisphere and the 2nd oldest in the world.
+        There you can enjoy canapés and drinks, and who knows, if you are up for a bet, you might end up
+        with a jackpot. You need not be a big horse racing fan to enjoy the electric atmosphere at the Champ de Mars.</string>
+
+    <string name="places_must_visit">Places to visit</string>
+    <string name="local_culture">Local Art</string>
+    <string name="figure4">figure4</string>
+    <string name="t1intro">Culture in Mauritius has been influenced by the different ancestral origins of the Mauritian people. This is reflected through the food, music, literature that have had different impacts which have emerged into a Mauritian culture.</string>
+    <string name="here_are_some_local_mauritian_cultures">Here are some local Mauritian Cultures</string>
+
+    <string name="fact1detailt1">‘Sega’ is the national folk dance of Mauritius.
+        Its African origins can be traced back to the 18th century when it was performed by slaves as a way to forget their
+        miserable existence. Today the sega is known for expressing ‘joie de vivre’. While the whole body gyrates to the traditional instruments of the ravanne,
+        the naravanne and the triangle, the feet never leave the ground.</string>
+
+    <string name="tante_rafia">tante rafia</string>
+    <string name="basketwork_tente_vacoas">Basketwork (tente Vacoas)</string>
+
+    <string name="fact2detailt1">Basketwork is a tradition that has passed from mother to child the artistry on how
+        to braid “tente” from leaves of vacoas, sugarcane leaves, bamboo or aloe. The leaves are firstly cut into
+        stripes and then set to dry under the sun. They are then softened with a knife so they can be easily knitted
+        as the base for the popular beach bags, hats, mats and lamp heads.</string>
+
+    <string name="ship_model">ship model</string>
+    <string name="handmade_warship_model">Handmade Warship model</string>
+
+    <string name="fact3detailt1">Ship modeling, a more recent tradition, has since its appearance in the island (1968)
+        been a source of pride for Mauritian artisans. The detailed ship replicas are based on original plans and
+        brought to scale, where they are a 100% hand-made. In the several workshops around the island you will be able
+        to appreciate the craftsmanship from closer and even request a custom ship model for yourself.</string>
+    <string name="distilled_rum">distilled rum</string>
+    <string name="rhum_made_in_chamarel_distillery">Rhum made in Chamarel distillery</string>
+    <string name="fact4detailt1">Mauritius is one of the few countries that still elaborates agricultural rum, sourced from the distillation of fresh, fermented sugar cane (commercial rum comes from the distillation of molasses). Its specific aroma and flavor make it very appreciated as a high-quality rum, although Mauritius’ distinctive creation is the artisanal maceration made with fruits and spices of the island such as vanilla, coffee, orange peel and nutmeg.</string>
+    <string name="ravanne_mauritian">ravanne mauritian</string>
+    <string name="ravanne">Ravanne</string>
+    <string name="fact5detailt1">The ravanne is a round tambourine that varies in sizes according to the pitch desired. Hand-crafted with animal skin, it is warmed-up over fire to loosen it up before playing. The beats then set the rhythm for the other musicians and the dancers who jiggle and twirl around the bonfire.</string>
+    <string name="kaya">Kaya</string>
+    <string name="joseph_reginald_topize_aka_kaya">Joseph Reginald Topize (Aka Kaya)</string>
+
+    <string name="fact6detailt1">Seggae is a fusion genre of sega, the traditional music of the Mascarene Islands, and reggae.
+        Seggae is one of the most popular music genres in Mauritius.It was invented in the mid 1980s by the Mauritian Rastafari
+        singer Joseph Reginald Topize who was commonly known as Kaya, after a song title by Bob Marley.
+        He campaigned for rights of the Mauritian Creole people. Kaya died in prison in 1999.</string>
+    <string name="wood_sculpture">wood sculpture</string>
+
+    <string name="wood_sculptured_at_le_caudan_waterfront">wood sculptured at Le caudan Waterfront</string>
+
+    <string name="fact7detailt1">Wood sculpting has been one of Mauritius\' populor local art.
+        Long ago people would take a piece of wood and translate it into what they wanted to convey to the world
+        or to represent something. This practice is still being done by many people nowadays and when tourists
+        come to visit Mauritius, they do buy a wooden Sculpture as a souvenir of their visit.</string>
+
+    <string name="briyani">Briyani</string>
+
+    <string name="fact8detailt1">The cuisine of Mauritius is a blend of Chinese, European and Indian influences
+        in the history of Mauritius. Dishes from French cuisine have grown very popular in Mauritius.
+        Most of the dishes and practices into the culinary traditions are inspired from former slaves,
+        Indian workers and Chinese migrant during the 19th century. This has become an art of Mauritius as
+        everyone in Mauritius knows how to cook different dishes from different cultures since teenagehood.</string>
+    <string name="todo2">todo2</string>
+    <string name="komiko">Komiko</string>
+    <string name="a_comedy_show_called_komiko">A Comedy show called Komiko</string>
+    <string name="paint">Paint</string>
+    <string name="a_painting_of_le_morne_brabant">A painting of Le Morne Brabant</string>
+    <string name="acting_is_an_art_that_has_started_to_bloom_in_mauritius_many_shows_are_being_produced_nowadays_such_as_komiko_which_is_one_of_the_best_shows_made_in_mauritius_many_film_directors_are_choosing_mauritius_for_their_movie_production_and_due_to_this_mauritian_people_are_getting_the_opportunity_to_participate">acting is an art that has started to bloom in mauritius many shows are being produced nowadays such as komiko which is one of the best shows made in mauritius many film directors are choosing mauritius for their movie production and due to this mauritian people are getting the opportunity to participate.</string>
+    <string name="lastly_painting_is_one_of_mauritius_local_art_speciality_as_many_of_our_ancestors_history_and_even_the_history_of_mauritius_have_been_brought_to_the_world_through_paintings_many_artists_are_still_practising_this_art_as_it_is_something_that_only_the_artist_can_give_form_to_many_tourists_love_to_buy_paintings_drawn_by_mauritians_as_a_souvenir_of_their_visit_to_mauritius_because_of_its_originality_and_more_importantly_because_of_the_beauty_and_historical_backgrounds">lastly painting is one of mauritius local art speciality as many of our ancestors history and even the history of mauritius have been brought to the world through paintings many artists are still practising this art as it is something that only the artist can give form to many tourists love to buy paintings drawn by mauritians as a souvenir of their visit to mauritius because of its originality and more importantly because of the beauty and historical backgrounds.</string>
+    <string name="back">Back</string>
+    <string name="score">Score:</string>
+    <string name="back1">BACK</string>
+    <string name="next1">NEXT</string>
+    <string name="test">dsfaaaaaaaaaaaaaaaaaaaaaaaaaafffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+    ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+    ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="score_0">Score: 0</string>
+    <string name="topics">Topics</string>
+    <string name="home">Home</string>
+    <string name="speak_content">Speak</string>
+    <string name="stop">stop</string>
+
+</resources>
