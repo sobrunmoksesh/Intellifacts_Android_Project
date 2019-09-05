@@ -4,3 +4,4 @@ Android project with text-to-speech and speech-to-text functionalities. The voic
 
 *Consider changing the images used in the application when working with this project.**
 
+***Voice commands: Start now, home, art, cuisine, place, history, quiz***
